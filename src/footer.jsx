@@ -29,7 +29,7 @@ function Footer(){
                 </ul>
                 <ul>
                     <li>Follow Us</li>
-                    <li>@timbudevices</li>
+                    <li>@techdepot</li>
                     <li>
                         <img src={tiktokIcon} alt="" />
                         <img src={instagramIcon} alt="" />
