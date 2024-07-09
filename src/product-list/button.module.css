@@ -1,0 +1,12 @@
+
+.add_to_cart {
+    width: 150px;
+    padding: 12px 15px;
+    color: white;
+    background-color: var(--content-color);
+  }
+  
+img{
+    width: 30px;
+    height: 30px;
+  }
